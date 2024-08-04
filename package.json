@@ -1,0 +1,58 @@
+{
+  "name": "matrix-portfolio",
+  "homepage": "https://SAHILDUDHAL21.github.io/portfolio",
+  "version": "1.2.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.1.1",
+    "react": "^18.2.0",
+    "react-console-emulator": "^5.0.2",
+    "react-dom": "^18.2.0",
+    "react-rain-animation": "^1.0.4",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "^3.0.1",
+    "react-transition-group": "^4.4.5",
+    "serve": "^14.2.3",
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.22"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "raw-loader": "^4.0.2"
+  },
+  "main": "index.js",
+  "author": "sahil dudhal",
+  "license": "ISC",
+  "description": "portfolio",
+  "keywords": [
+    "hello"
+  ]
+}
