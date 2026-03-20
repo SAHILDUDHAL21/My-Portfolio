@@ -5,7 +5,7 @@ import Projects from './pages/Projects';
 import MainPage from './pages/MainPage';
 
 const App = () => (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
         <Routes>
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
