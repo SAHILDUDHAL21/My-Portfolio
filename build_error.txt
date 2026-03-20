@@ -1,0 +1,11 @@
+[36mvite v8.0.1 [32mbuilding client environment for production...[36m[39m
+[2K
+transforming...??? 88 modules transformed.
+rendering chunks...
+computing gzip size...
+build/index.html                       0.79 kB ??? gzip:  0.42 kB
+build/assets/index-BRyQxWq-.css        1.76 kB ??? gzip:  0.77 kB
+build/assets/web-vitals-pUD7qlom.js    0.00 kB ??? gzip:  0.02 kB
+build/assets/index-Cd-sL82Z.js       278.95 kB ??? gzip: 87.90 kB
+
+[32m??? built in 300ms[39m

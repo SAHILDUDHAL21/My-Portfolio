@@ -1,7 +1,7 @@
 import MatrixRain from './MatrixRain';
 import Console from 'react-console-emulator';
 import React, { useState, useEffect, useRef} from 'react';
-import Styles from './styles.css';
+import './styles.css';
 
 const Layout = ({ commands, children, welcomeMessage }) => {
     const [dynamicWelcome, setDynamicWelcome] = useState('');
@@ -35,10 +35,8 @@ const Layout = ({ commands, children, welcomeMessage }) => {
 
     const terminalStyle = {
         backgroundColor: '#000000a1',
-        minHeight: '310px',
-        minWidth: '510px',
-        maxWidth: '500%',
-        maxHeight: '100%',
+        width: '100%',
+        height: '100%',
         borderRadius: '5px',
         margin: 0,
         padding: 0,
@@ -76,17 +74,21 @@ const Layout = ({ commands, children, welcomeMessage }) => {
         transform: 'translate(-50%, -50%)',
         zIndex: 1,
         margin: 0,
-        padding: 0,
+        padding: '15px',
+        width: '70vw',
+        height: '70vh',
+        display: 'flex',
+        flexDirection: 'column',
     };
 
     return (
         <div style={{ position: 'relative' }}>
             <MatrixRain style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: -1 }} />
             <div className="terminal-container" style={terminalContainerStyle}>
-                <p style={{ color: '#00FF00', fontFamily: 'monospace', fontSize: '15px' }}>
+                <p style={{ color: '#00FF00', fontFamily: 'monospace', fontSize: '15px', margin: '0 0 10px 0' }}>
                     {dynamicWelcome.replace('undefined', '')}
                 </p>
-                <div className={isInputAllowed ? "fadingIn" : ""}>
+                <div className={isInputAllowed ? "fadingIn" : ""} style={{ flex: 1, minHeight: 0 }}>
                     <Console
                         id="myConsole"
                         ref={consoleRef}

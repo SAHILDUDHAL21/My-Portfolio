@@ -11,6 +11,16 @@ body, html, #root, .App {
     height: 100%;
 }
 
+/* Hide scrollbar globally for a seamless Matrix aesthetic */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;     /* Firefox */
+}
+
 body {
     overflow-x: hidden;
     overflow-y: hidden;
