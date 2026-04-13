@@ -1,6 +1,6 @@
 import MatrixRain from './MatrixRain';
 import Console from 'react-console-emulator';
-import React, { useState, useEffect, useRef} from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './styles.css';
 
 const Layout = ({ commands, children, welcomeMessage }) => {
@@ -100,7 +100,7 @@ const Layout = ({ commands, children, welcomeMessage }) => {
                         inputAreaStyle={terminalinputStyle}
                         promptLabelStyle={terminaltext}
                         inputTextStyle={inputstyle}
-                        promptLabel={'Sahil@Matrix:~$'}
+                        promptLabel={'Guest@Matrix:~$'}
                     />
                 </div>
             </div>
