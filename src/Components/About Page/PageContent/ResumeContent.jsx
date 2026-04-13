@@ -37,34 +37,34 @@ opportunity to contribute and grow in a collaborative development environment.
 
 <b>BYTO (Book Your Truck Online)</b>
 Software Developer Intern (Backend - Spring Boot) | Exp: 6 months | June 2025 – Dec 2025
-• Developed and enhanced mobile application features using Flutter, improving UI responsiveness by 20% through optimized widget rendering and efficient API calls
-• Integrated frontend with backend services via REST APIs, reducing data fetch latency by 15% and ensuring seamless data flow
-• Designed and implemented 30+ RESTful APIs using Spring Boot, handling request validation, business logic, and database interactions using layered architecture
-• Collaborated using Git/GitHub in a team environment, improving development efficiency and reducing code conflicts by 25%
-• Debugged, troubleshot, and resolved 15+ application issues, improving overall app performance and stability
+• Developed and enhanced mobile application features using Flutter, improving UI responsiveness <br>by 20% through optimized widget rendering and efficient API calls
+• Integrated frontend with backend services via REST APIs, reducing data fetch latency by 15% <br>and ensuring seamless data flow
+• Designed and implemented 30+ RESTful APIs using Spring Boot, handling request validation, <br>business logic, and database interactions using layered architecture
+• Collaborated using Git/GitHub in a team environment, improving development efficiency and <br>reducing code conflicts by 25%
+• Debugged, troubleshot, and resolved 15+ application issues, improving overall app performance <br>and stability
 
 --------------------------------------------------------------------------------
 
 <b>PROJECTS</b>
 
 <b>College Voting Platform</b> | Feb 2026
-• Designed and developed RESTful APIs using Spring Boot, MySQL, REST APIs, CRUD operations, and OTP-based authentication with layered architecture and robust data validation.
+• Designed and developed RESTful APIs using Spring Boot, MySQL, REST APIs, CRUD operations, <br>and OTP-based authentication with layered architecture and robust data validation.
 
 <b>LeetCode Unofficial Mobile App</b> | Sep 2025
-• Developed a Flutter-based mobile app that provides categorized access to LeetCode problems with a clean UI, utilizing third-party REST APIs for efficient data retrieval and real-time content updates.
+• Developed a Flutter-based mobile app that provides categorized access to LeetCode problems with <br>a clean UI, utilizing third-party REST APIs for efficient data retrieval and real-time content updates.
 
 <b>Libre PaperWall</b> | June 2025
-• Created a Flutter-based wallpaper app offering free, high-quality wallpapers with category-wise browsing and download support, leveraging REST APIs for real-time data retrieval and Data Storage.
+• Created a Flutter-based wallpaper app offering free, high-quality wallpapers with category-wise <br>browsing and download support, leveraging REST APIs for real-time data retrieval and Data Storage.
 
 <b>Ghost Web Browser</b> | Mar 2025
-• Built a cross-platform Flutter web browser with support for bookmarks, history, Google search, and dark/light themes.
+• Built a cross-platform Flutter web browser with support for bookmarks, history, Google search, <br>and dark/light themes.
 
 <b>Threat Analyzer</b> | Jan 2025
-• Developed a Flutter app to scan APKs using VirusTotal API, performing CRUD operations through REST APIs to store, retrieve, and analyze scan results in real time.
+• Developed a Flutter app to scan APKs using VirusTotal API, performing CRUD operations through REST <br>APIs to store, retrieve, and analyze scan results in real time.
 
 <b>JAVA (Music Player & Flappy Bird)</b> | Sep-Dec 2024
-• Built a Java Swing based desktop music player using Swing with support for MP3 playback, playlist management, and custom UI.
-• Recreated the classic Flappy Bird game in Java using Swing, featuring smooth animations and collision mechanics.
+• Built a Java Swing based desktop music player using Swing with support for MP3 playback, playlist <br>management, and custom UI.
+• Recreated the classic Flappy Bird game in Java using Swing, featuring smooth animations and <br>collision mechanics.
 
 --------------------------------------------------------------------------------
 
