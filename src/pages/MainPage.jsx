@@ -62,7 +62,7 @@ const MainPage = () => {
                 return `Languages:           Java, JavaScript, Dart, C, Shell\nBackend:             Spring Boot, Hibernate, REST API\nDatabases:           MySQL, PostgreSQL, MongoDB, Hive\nTools:               Git, GitHub, Postman, Jira\nFrameworks & IDEs:   IntelliJ IDEA, Eclipse, Android Studio, Xcode`;
             },
         },
-        Resume: {
+        resume: {
             description: 'Open my full resume',
             fn: function () {
                 setTimeout(function () {
