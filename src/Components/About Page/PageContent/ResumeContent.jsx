@@ -14,7 +14,11 @@ If you want a pdf copy, you can visit the link <a href="https://drive.google.com
 
 Junior Java Developer | Java Backend Developer | Spring Boot Developer
 
-Skilled in building scalable backend applications using Java, Spring Boot, Agile Methodology and REST APIs. Strong foundation in Object-Oriented Programming and SQL with experience in developing secure systems using layered architecture and data validation. Demonstrates strong teamwork, communication, problem-solving skills, and eagerness to learn. Seeking an entry-level opportunity to contribute and grow in a collaborative development environment.
+Skilled in building scalable backend applications using Java, Spring Boot, Agile Methodology<br> 
+and REST APIs. Strong foundation in Object-Oriented Programming and SQL with experience in <br>
+developing secure systems using layered architecture and data validation. Demonstrates strong <br>
+teamwork, communication, problem-solving skills, and eagerness to learn. Seeking an entry-level <br>
+opportunity to contribute and grow in a collaborative development environment.
 
 --------------------------------------------------------------------------------
 
